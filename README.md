@@ -1,19 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=27A4F2&height=300&section=header&text=Hi!&nbsp;I'mGeehyun&fontSize=90&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://github.com/Geeehyun/Geeehyun/assets/141742542/e7f8601d-d2f3-4ac1-9890-e37175b1d445">
-</p>
-<div align="center">
-  <a href="https://velog.io/@wkdwl578/series">🏠</a>
-  <a href="mailto:wkdwl578@naver.com">✉️</a>
-</div>
+
 <h3 align="center">🖐🏻 ABOUT ME</h3>
 <p align="center">▪️</p>
 <div>
 <p align="center">📚 저는 배우는 걸 좋아하고, <strong>늘 발전하는 사람</strong>이 되고 싶은 사람입니다!</p>
 <p align="center">💬 다양한 경험을 바탕으로 <strong>뛰어난 의사소통 능력</strong>을 보유하고 있습니다.</p>
 <p align="center">💞 배운 것을 **정리**하고, <strong>알고 있는 것을 나누는 것</strong>을 좋아합니다.</p>
-  <p align="center"><a href="https://velog.io/@wkdwl578/series">🏠 블로그 구경가기</a></p>
+<div align="center">
+  <a href="https://velog.io/@wkdwl578/series">🏠</a>
+  <a href="mailto:wkdwl578@naver.com">✉️</a>
+</div>
 </div>
 <br><br>
 <h3 align="center">🛠️ SKil Set</h3>
