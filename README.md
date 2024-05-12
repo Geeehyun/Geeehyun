@@ -8,8 +8,9 @@
 <p align="center">💬 다양한 경험을 바탕으로 <strong>뛰어난 의사소통 능력</strong>을 보유하고 있습니다.</p>
 <p align="center">💞 배운 것을 **정리**하고, <strong>알고 있는 것을 나누는 것</strong>을 좋아합니다.</p>
 <div align="center">
-  <a href="https://velog.io/@wkdwl578/series">🏠</a>
-  <a href="mailto:wkdwl578@naver.com">✉️</a>
+  <a href="https://velog.io/@wkdwl578/series">🏠블로그</a>
+  <a href="mailto:wkdwl578@naver.com">✉️이메일</a>
+  <a href="https://quixotic-buckthorn-e94.notion.site/320e7a651004427c9198164456c1a4b4?pvs=4">📜포트폴리오</a>
 </div>
 </div>
 <br><br>
