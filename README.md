@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <a href="https://velog.io/@wkdwl578/series">🏠</a>
-  <a href="wkdwl578@naver.com">✉️</a>
+  <a href="mailto:wkdwl578@naver.com">✉️</a>
 </div>
 <h3 align="center">🖐🏻 ABOUT ME</h3>
 <p align="center">▪️</p>
