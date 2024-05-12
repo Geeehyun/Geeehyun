@@ -6,7 +6,7 @@
 <div>
 <p align="center">📚 저는 배우는 걸 좋아하고, <strong>늘 발전하는 사람</strong>이 되고 싶은 사람입니다!</p>
 <p align="center">💬 다양한 경험을 바탕으로 <strong>뛰어난 의사소통 능력</strong>을 보유하고 있습니다.</p>
-<p align="center">💞 배운 것을 **정리**하고, <strong>알고 있는 것을 나누는 것</strong>을 좋아합니다.</p>
+<p align="center">💞 배운 것을 <strong>정리</strong>하고, <strong>알고 있는 것을 나누는 것</strong>을 좋아합니다.</p>
 <div align="center">
   <a href="https://velog.io/@wkdwl578/series">🏠블로그</a>
   <a href="mailto:wkdwl578@naver.com">✉️이메일</a>
