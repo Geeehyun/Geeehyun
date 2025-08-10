@@ -8,9 +8,9 @@
 <p align="center">💬 다양한 경험을 바탕으로 <strong>뛰어난 의사소통 능력</strong>을 보유하고 있습니다.</p>
 <p align="center">💞 배운 것을 <strong>정리</strong>하고, <strong>알고 있는 것을 나누는 것</strong>을 좋아합니다.</p>
 <div align="center">
-  <a href="https://geehyun.tistory.com/">🏠블로그</a>
-  <a href="mailto:wkdwl578@gmail.com">✉️이메일</a>
-  <a href="https://geehyun-dev.notion.site">📜포트폴리오</a>
+  <a href="https://geehyun.tistory.com/" target="_blank">🏠블로그</a>
+  <a href="mailto:wkdwl578@gmail.com" target="_blank">✉️이메일</a>
+  <a href="https://geehyun-dev.notion.site" target="_blank">📜포트폴리오</a>
 </div>
 </div>
 <br><br>
