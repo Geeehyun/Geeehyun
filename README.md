@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://geehyun.tistory.com/">🏠블로그</a>
   <a href="mailto:wkdwl578@gmail.com">✉️이메일</a>
-  <a href="https://quixotic-buckthorn-e94.notion.site/320e7a651004427c9198164456c1a4b4?pvs=4">📜포트폴리오</a>
+  <a href="https://geehyun-dev.notion.site">📜포트폴리오</a>
 </div>
 </div>
 <br><br>
